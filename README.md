@@ -17,12 +17,6 @@ This project is a todo application built with React and Tailwind CSS. It include
 2. Navigate to the project directory: `cd project-name`
 3. Install dependencies: `npm install`
 
-## Usage
-
-1. Start the development server: `npm start`
-2. Open your browser and visit `http://localhost:3000`
-3. Explore the todo application and enjoy the various functionalities.
-
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request.
